@@ -1,0 +1,86 @@
+header{
+    background-image: url(polygon-1920x1080-4k-hd-wallpaper-orange-red-blue-background-pattern-225.jpg);
+    height: 100vh;
+   
+}
+
+.abc{
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: aqua; 
+    
+}
+
+.txt{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+/* 
+h2{
+    position: absolute;
+    top: 95%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+} */
+
+h2{
+text-decoration: none;
+color: black;
+padding: 5px 20px;
+border:1px solid black ;
+transition: o.6s ease;
+}
+
+.fabtheme-about{
+	background-color: #684551;
+	color: #F3F3F3;
+	border-left: 40px solid #1B1524;
+}
+
+/* h2{
+    background-color: deeppink;
+} */
+
+#ads{
+    background-color: gold;
+}
+#ab{
+    background-color: gold;
+}
+
+.rr{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    transform: translate(-50%,-50%);
+}
+
+.pic{
+    float: right;
+}
+p{
+    float: right;
+}
+
+.im{
+   width: 100px; 
+height: 230px;
+background-color: aliceblue;
+border: black solid 2px;
+text-align: center;
+}
+
+img{
+
+width: 100%;
+}
